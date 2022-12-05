@@ -5,6 +5,8 @@ W folderze testy API znajduje się:
 - Kolekcja testów z Postman 
 - Plik z zmiennymi z Postman
 
+Do uruchmienia w Postman lub Newman
+
 W folderze TestLink Reports znajdują się:
 - Raport zawierający wykonanie przypadków testowych oraz plan testów 
 - Raport zawierający wyniki przeprowadzonych testów 
