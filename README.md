@@ -1,13 +1,14 @@
 # Mr-Buggy-7
-Repozytorium zawiera Testy funkcjonalności oraz API aplikacji Mr Buggy 7.
+This repository contains Functionality and API tests of Mr Buggy 7 application.
 
-W folderze testy API znajduje się:
-- Kolekcja testów z Postman 
-- Plik z zmiennymi z Postman
+The API tests catalog contains:
+- A collection of tests from Postman 
+- A file with variables from Postman
 
-Do uruchmienia w Postman lub Newman
+To be run in Postman or Newman
 
-W folderze TestLink Reports znajdują się:
-- Raport zawierający wykonanie przypadków testowych oraz plan testów 
-- Raport zawierający wyniki przeprowadzonych testów 
-- Załącznik .png do zgłoszonego błędu 
+In the TestLink Reports folder there are:
+- A report containing the execution of the test cases and the test plan 
+- A report containing the results of the tests performed 
+- A .png attachment to the reported bug 
+
