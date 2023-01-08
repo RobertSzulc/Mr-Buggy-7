@@ -1,4 +1,4 @@
-# Mr-Buggy-7
+# Mr_Buggy_7_tests
 This repository contains Functionality and API tests of Mr Buggy 7 application.
 
 The API tests catalog contains:
